@@ -19,8 +19,8 @@ And, there are 5 Tests:
 
 2- CreateAccountTests --> Extends BaseTests, Test to check that account is created succesfully 
 
-2- LoginTests --> Extends BaseTests, Test to check that account is Logged-in succesfully 
+3- LoginTests --> Extends BaseTests, Test to check that account is Logged-in succesfully 
 
-2- DressSelectionTests --> Extends LoginTests, Test to check that dress is bought succesfully 
+4- DressSelectionTests --> Extends LoginTests, Test to check that dress is bought succesfully 
 
-2- OrderHistoryTests --> Extends DressSelectionTests, Test to check that bought item is in the order history
+5- OrderHistoryTests --> Extends DressSelectionTests, Test to check that bought item is in the order history
